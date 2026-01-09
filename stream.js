@@ -1,4 +1,4 @@
-const socket = io('https://api.voidspark.org:1098');
+const socket = io('https://api.voidspark.org:8443');
 const feed = document.getElementById('feed');
 const status = document.getElementById('status');
 
