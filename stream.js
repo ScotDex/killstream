@@ -1,4 +1,4 @@
-const socket = io('http://188.166.153.213:1098');
+const socket = io('');
 const feed = document.getElementById('feed');
 const status = document.getElementById('status');
 
@@ -76,4 +76,5 @@ socket.on('raw-kill', (kill) => {
 
     feed.prepend(div);
     if (feed.children.length > 50) feed.lastChild.remove();
+
 });
