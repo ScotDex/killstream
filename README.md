@@ -12,9 +12,11 @@ Its not really, https://zkillboard.com/ does a great job of having a rich and va
 
 All based on the performance of squizz's https://github.com/zKillboard/RedisQ - the stream just spits out whats next. 
 
-### Does this stream include NPC (PvE) deaths?
+### Quite a nice idea dex, how can I show my appreciation?
 
-See above.
+The container it runs off is funded by
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X21RDFR0)
 
 ### How does the tool calculate "Whale" status?
 
