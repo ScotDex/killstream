@@ -41,7 +41,7 @@ Open an issue/request on this GitHub
 * **[zKillboard](https://zkillboard.com/)**: Created and maintained by **Squizz Caphinator**. We utilize the [RedisQ API](https://github.com/zKillboard/RedisQ) to fetch live killmail data.
 * **[CCP Games](https://www.ccpgames.com/)**: For providing the [EVE Swagger Interface (ESI)](https://esi.evetech.net/), allowing us to resolve in-game IDs into names and images.
 * **[EVE Image Server](https://images.evetech.net/)**: For the high-resolution ship and character renders used throughout the stream.
-* **[NASA APOD API](https://api.nasa.gov/)**: For providing the stunning deep-space imagery used for the dynamic background (Which currently doesent work...)
+* **[RixxJavixI](https://t.co/rAKta0xpLS)**: For providing the range of screenshots used for the dynamic background 
 
 ### Legal Disclaimer
 EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights are reserved worldwide. All other trademarks are the property of their respective owners. EVE Online, the EVE logo, EVE and all associated logos and designs are the intellectual property of CCP hf. All artwork, screenshots, characters, vehicles, storylines, world locations or other recognizable features of the intellectual property relating to these trademarks are likewise the intellectual property of CCP hf.
