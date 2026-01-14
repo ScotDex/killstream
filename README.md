@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-the-badge&logo=statuspage)
+![License](https://img.shields.io/badge/License-MIT-black?style=for-the-the-badge)
+![Kills](https://img.shields.io/badge/Kills_Processed-15k+-00FF00?style=for-the-the-badge&logo=target)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-the-badge&logo=docker&logoColor=white)
+
 ## ❓ Frequently Asked Questions (Q&A)
 
 ### What exactly is Socket.Kill?
